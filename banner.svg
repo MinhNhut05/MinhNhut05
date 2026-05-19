@@ -1,0 +1,39 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="74" y1="52" x2="74" y2="268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="27.5" stroke="#1F2937"/>
+  <rect x="72" y="52" width="8" height="216" rx="4" fill="url(#accent)"/>
+
+  <text x="100" y="110" fill="#F8FAFC" font-size="44" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Lê Minh Nhựt</text>
+  <text x="100" y="154" fill="#CBD5E1" font-size="24" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">Full-stack Developer</text>
+  <text x="100" y="206" fill="#94A3B8" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">Production web apps, AI-assisted workflows, and internal tools.</text>
+  <text x="100" y="234" fill="#94A3B8" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">React · Next.js · NestJS · Prisma · PostgreSQL · Docker</text>
+
+  <rect x="838" y="56" width="290" height="208" rx="20" fill="#0F172A" stroke="#1F2937"/>
+  <text x="866" y="92" fill="#E2E8F0" font-size="18" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Selected work</text>
+
+  <rect x="866" y="112" width="10" height="10" rx="2" fill="#14B8A6"/>
+  <text x="886" y="122" fill="#F8FAFC" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">DevPath</text>
+  <text x="970" y="122" fill="#94A3B8" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif">AI learning platform</text>
+
+  <rect x="866" y="148" width="10" height="10" rx="2" fill="#F59E0B"/>
+  <text x="886" y="158" fill="#F8FAFC" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">DevTeamOS</text>
+  <text x="990" y="158" fill="#94A3B8" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif">Project management</text>
+
+  <rect x="866" y="184" width="10" height="10" rx="2" fill="#38BDF8"/>
+  <text x="886" y="194" fill="#F8FAFC" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Canva Schedule</text>
+  <text x="1018" y="194" fill="#94A3B8" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif">Document workflow</text>
+
+  <rect x="866" y="220" width="10" height="10" rx="2" fill="#A78BFA"/>
+  <text x="886" y="230" fill="#F8FAFC" font-size="16" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Exam Room Allocator</text>
+  <text x="1034" y="230" fill="#94A3B8" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif">Excel export</text>
+</svg>
