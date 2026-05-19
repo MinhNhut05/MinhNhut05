@@ -1,15 +1,10 @@
 # 💫 About Me
 
 **Lê Minh Nhựt**  
-**Full-stack Developer** — Intern / Fresher / Junior  
-Ho Chi Minh City, Vietnam · [minhnhut.dev.vn@gmail.com](mailto:minhnhut.dev.vn@gmail.com) · 0855167511
+**Full-stack Developer** 
+Ho Chi Minh City, Vietnam ·
 
 Hands-on builder, team leader, and AI-augmented developer.
-
-- Led 6-10 university group projects with teams of 3-8 members, including task breakdown, code review, and delivery.
-- Build full-stack products end-to-end with React, Next.js, NestJS, Prisma, PostgreSQL, Redis, and Docker.
-- Use Claude Code and Codex daily for plan-mode workflows, custom skills, sub-agent orchestration, MCP integration, custom hooks, and shipping full-stack features.
-- Interested in production web apps, AI-assisted workflows, internal tools, and data-heavy user interfaces.
 
 ## 🌐 Socials
 
@@ -61,22 +56,6 @@ Hands-on builder, team leader, and AI-augmented developer.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-4A4A4A?style=for-the-badge&logo=pnpm&logoColor=F69220)
 
-## 🚀 Featured Projects
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [DevPath](https://github.com/MinhNhut05/devpath) | AI-assisted learning platform with personalized paths, lessons, quizzes, and tutoring | NestJS, React, Prisma, PostgreSQL, Redis, Docker |
-| [DevTeamOS](https://github.com/MinhNhut05/devteam-os) | Kanban project management for small teams with role-based access and team workflows | React, NestJS, Prisma, PostgreSQL, Socket.IO |
-| [Canva Schedule](https://github.com/MinhNhut05/canva-schedule) | Document intake, AI-assisted review, and Canva artifact generation | Next.js, Prisma, PostgreSQL, OpenAI, Canva OAuth |
-| [Exam Room Allocator](https://github.com/MinhNhut05/excel-cen) | Vietnamese exam-room allocation, deterministic sorting, manual edits, and Excel export | Next.js, ExcelJS, Zod, Prisma, PostgreSQL |
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MinhNhut05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=MinhNhut05&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNhut05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
